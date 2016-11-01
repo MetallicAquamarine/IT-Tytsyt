@@ -1,0 +1,3 @@
+for (var i = 0; 1 < amount; i++) {
+ alert("hei");
+}
