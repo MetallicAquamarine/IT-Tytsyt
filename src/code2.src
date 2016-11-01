@@ -1,3 +1,5 @@
 for (var i = 0; 1 < amount; i++) {
- alert("hei");
+ if (amount > 1001) {
+ alert("hei, älä viitsi!");
+ }
 }
