@@ -1,3 +1,4 @@
+//Kirjoitin nyt jotain fiksua tahan.
 function echoMinusOne (zyx) {
   echo zyx - 1;
 }
